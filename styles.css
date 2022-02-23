@@ -265,7 +265,7 @@ h2,h3{
     color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 360px) {
+@media (max-width: 575px) {
     .logo{
         padding: 0;
         margin-left: 1rem;
