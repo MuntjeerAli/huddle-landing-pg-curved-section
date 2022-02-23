@@ -255,3 +255,12 @@ h2,h3{
 .btn-subscribe:hover{
     cursor: pointer;
 }
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
